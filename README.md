@@ -1,4 +1,5 @@
 # 🧠ChatGPT 中文调教指南
+for study
 
 ![visitor badge](https://visitor-badge.vercel.app/p/PlexPt.awesome-chatgpt-prompts-zh)
 
